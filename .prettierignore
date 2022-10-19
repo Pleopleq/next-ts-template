@@ -1,5 +1,3 @@
-*.config.file
-
 # Already being linted by pretty-format-json
 *.json
 # Already being linted by mdl
