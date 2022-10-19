@@ -1,4 +1,4 @@
-jest.config.file
+*.config.file
 
 # Already being linted by pretty-format-json
 *.json
